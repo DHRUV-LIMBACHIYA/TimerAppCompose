@@ -1,6 +1,6 @@
 # TimerAppCompose
 
-A timer app in Compose with start,stop & restart functionality
+A timer app in Compose with start,stop and restart functionality
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/86999890/131862066-f2dd1871-9177-40f9-bca0-480a00b69f8d.png" width="200"/>
