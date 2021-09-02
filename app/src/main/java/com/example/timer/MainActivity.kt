@@ -41,7 +41,7 @@ class MainActivity : ComponentActivity() {
                     .background(Color(0xFF101010))
             ) {
                 Timer(
-                    totalTime = 10L * 1000L,
+                    totalTime = 100L * 1000L,
                     inActiveStrokeColor = Color.DarkGray,
                     activeStrokeColor = Color(0xFF37B900),
                     modifier = Modifier.size(200.dp)
